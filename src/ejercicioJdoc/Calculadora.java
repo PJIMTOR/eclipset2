@@ -8,7 +8,7 @@ public class Calculadora {
     /**
      * Suma dos números.
      *
-     * @param a Primer número.
+     * @param adf Primer número.
      * @param b Segundo número.
      * @return Resultado de la suma.
      */
