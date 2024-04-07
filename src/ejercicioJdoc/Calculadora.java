@@ -6,7 +6,7 @@ package ejercicioJdoc;
 public class Calculadora {
 
     /**
-     * Suma dos números.
+     * Sumfra dos números.
      *
      * @param adf Primer número.
      * @param b Segundo número.
